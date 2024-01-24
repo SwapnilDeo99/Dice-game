@@ -7,7 +7,7 @@
     display: flex;
     background-color: #374259;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     width: 100%;
 }
