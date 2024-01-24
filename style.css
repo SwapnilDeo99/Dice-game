@@ -59,4 +59,7 @@ p{
         gap: 5rem;
         
     }
+    p{
+        padding: 0.7rem;
+    }
 }
