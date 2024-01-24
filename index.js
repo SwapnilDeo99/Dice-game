@@ -1,6 +1,5 @@
-var d1 = Math.floor(Math.random() * 7);
-var d2 = Math.floor(Math.random() * 7);
-
+var d1 = Math.floor(Math.random() * 6) + 1;
+var d2 = Math.floor(Math.random() * 6) + 1;
 switch (d1) {
   case 1:
     document
