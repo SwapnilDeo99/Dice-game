@@ -68,7 +68,7 @@ switch (d2) {
 if(d1 > d2){
   document.querySelector("h1").textContent="Player 1 Wins 👑";
 }
-else if(d1 == d2){
+else if(d1 === d2){
   document.querySelector("h1").textContent="Draw";
 }
 else{
